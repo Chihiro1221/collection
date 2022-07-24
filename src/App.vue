@@ -1,9 +1,7 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <div>houdunren.com</div>
+  <Router-view />
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
